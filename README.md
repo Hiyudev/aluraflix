@@ -97,4 +97,38 @@ client_x509_cert_url=<YOUR_INFORMATION>
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img alt="Express" src="https://img.shields.io/badge/Express-%2320232a.svg?style=for-the-badge&logo=express&logoColor=%fff"/>
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<<<<<<< HEAD
 </p>
+=======
+  
+  
+</p>
+
+## Installation
+```bash
+git clone https://github.com/KeysHD/aluraflix.git
+npm install
+```
+
+## Setting up
+1. Create a account on Firebase
+2. Create new project
+3. Create a firestore database
+4. Get Admin SDK json file on the database configuration
+5. Create a `.env` file
+6. Copy and paste the informations on the variables
+```
+type=<YOUR_INFORMATION>
+project_id=<YOUR_INFORMATION>
+private_key_id=<YOUR_INFORMATION>
+private_key=<YOUR_INFORMATION>
+client_email=<YOUR_INFORMATION>
+client_id=<YOUR_INFORMATION>
+auth_uri=<YOUR_INFORMATION>
+token_uri=<YOUR_INFORMATION>
+client_x509_cert_url=<YOUR_INFORMATION>
+```
+7. Initialize using the command `npm run dev`
+8. Enter `localhost:3000` for the Website view
+9. Send requests on `localhost:8080`
+>>>>>>> f7e3ea785007169762d274f2b7e9164915158a35
