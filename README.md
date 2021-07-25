@@ -11,8 +11,7 @@ The challenge focused on the Back-end, it consisted of simulating a real situati
 <p align="center">
  <a href="#api-reference">API Reference</a> • 
  <a href="#technology">Technology</a> • 
- <a href="#installation">Installation</a> •
- <a href="https://aluradev.vercel.app/">Website Live Preview</a>
+ <a href="#installation">Installation</a>
 </p>
 
 ## API Reference
@@ -100,3 +99,5 @@ token_uri=<YOUR_INFORMATION>
 client_x509_cert_url=<YOUR_INFORMATION>
 ```
 7. Initialize using the command `npm run dev`
+8. Enter `localhost:3000` for the Website view
+9. Send requests on `localhost:8080`
