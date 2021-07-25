@@ -11,9 +11,35 @@ The challenge focused on the Back-end, it consisted of simulating a real situati
 <p align="center">
  <a href="#api-reference">API Reference</a> • 
  <a href="#technology">Technology</a> • 
- <a href="#installation">Installation</a> •
- <a href="https://aluradev.vercel.app/">Website Live Preview</a>
+ <a href="#installation">Installation</a>
 </p>
+
+
+## Installation
+```bash
+git clone https://github.com/KeysHD/aluraflix.git
+npm install
+```
+
+## Setting up
+1. Create a account on Firebase
+2. Create new project
+3. Create a firestore database
+4. Get Admin SDK json file on the database configuration
+5. Create a `.env` file
+6. Copy and paste the informations on the variables
+```
+type=<YOUR_INFORMATION>
+project_id=<YOUR_INFORMATION>
+private_key_id=<YOUR_INFORMATION>
+private_key=<YOUR_INFORMATION>
+client_email=<YOUR_INFORMATION>
+client_id=<YOUR_INFORMATION>
+auth_uri=<YOUR_INFORMATION>
+token_uri=<YOUR_INFORMATION>
+client_x509_cert_url=<YOUR_INFORMATION>
+```
+7. Initialize using the command `npm run dev`
 
 ## API Reference
 
@@ -74,29 +100,3 @@ The challenge focused on the Back-end, it consisted of simulating a real situati
   
   
 </p>
-
-## Installation
-```bash
-git clone https://github.com/KeysHD/aluraflix.git
-npm install
-```
-
-## Setting up
-1. Create a account on Firebase
-2. Create new project
-3. Create a firestore database
-4. Get Admin SDK json file on the database configuration
-5. Create a `.env` file
-6. Copy and paste the informations on the variables
-```
-type=<YOUR_INFORMATION>
-project_id=<YOUR_INFORMATION>
-private_key_id=<YOUR_INFORMATION>
-private_key=<YOUR_INFORMATION>
-client_email=<YOUR_INFORMATION>
-client_id=<YOUR_INFORMATION>
-auth_uri=<YOUR_INFORMATION>
-token_uri=<YOUR_INFORMATION>
-client_x509_cert_url=<YOUR_INFORMATION>
-```
-7. Initialize using the command `npm run dev`
