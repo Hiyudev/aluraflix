@@ -97,6 +97,4 @@ client_x509_cert_url=<YOUR_INFORMATION>
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img alt="Express" src="https://img.shields.io/badge/Express-%2320232a.svg?style=for-the-badge&logo=express&logoColor=%fff"/>
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  
-  
 </p>
