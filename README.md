@@ -1,3 +1,5 @@
+![Logo](https://i.imgur.com/pvg7OQp.png)
+
 # Alura Challenge Back-End
 
 This is a challenge proposed by Alura (a Brazilian online education platform).
